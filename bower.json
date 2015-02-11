@@ -1,0 +1,14 @@
+{
+  "name": "udemy-backbone",
+  "version": "0.1.0",
+  "homepage": "https://github.com/runrobrun/udemy-backbone",
+  "authors": [
+    "Rob hammann <runrobrun@gmail.com>"
+  ],
+  "description": "files from Udemy backbone course",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "backbone": "~1.1.2"
+  }
+}
